@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MANAVyeni", "MANAVyeni\MANAVyeni.csproj", "{0FC74B4A-CD5A-448A-9D75-9CB81CB0D46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manavyenideneme2", "manavyenideneme2\manavyenideneme2.csproj", "{8120E429-C0F9-4C88-B136-1A4849507B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC74B4A-CD5A-448A-9D75-9CB81CB0D46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC74B4A-CD5A-448A-9D75-9CB81CB0D46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC74B4A-CD5A-448A-9D75-9CB81CB0D46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC74B4A-CD5A-448A-9D75-9CB81CB0D46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8120E429-C0F9-4C88-B136-1A4849507B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8120E429-C0F9-4C88-B136-1A4849507B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8120E429-C0F9-4C88-B136-1A4849507B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8120E429-C0F9-4C88-B136-1A4849507B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35B541D-904D-4412-94D5-ECA76BB7715B}
+	EndGlobalSection
+EndGlobal

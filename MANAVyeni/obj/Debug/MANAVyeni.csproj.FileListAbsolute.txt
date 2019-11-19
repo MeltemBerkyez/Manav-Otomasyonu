@@ -1,0 +1,7 @@
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\bin\Debug\MANAVyeni.exe.config
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\bin\Debug\MANAVyeni.exe
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\bin\Debug\MANAVyeni.pdb
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\obj\Debug\MANAVyeni.csprojAssemblyReference.cache
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\obj\Debug\MANAVyeni.csproj.CoreCompileInputs.cache
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\obj\Debug\MANAVyeni.exe
+C:\Users\NİRVANA\Source\Repos\MANAVyeni\MANAVyeni\obj\Debug\MANAVyeni.pdb
